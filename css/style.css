@@ -1,0 +1,23 @@
+body{
+  
+}
+#header{
+   background-color: #DCDCDC;
+}
+#toolbar{
+  background-color: #F5F5F5;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+#mainContent{
+  margin-top: 20px;
+}
+#secondToolbar{
+  background-color: #484848;
+  color: white;
+}
+#footer{
+   background-color: #DCDCDC;
+}
